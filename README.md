@@ -1,2 +1,3 @@
-# 304final
-this is test
+# Abstract
+In modern society, hypertension is a common issue that troubles many people. Using American National Health and Nutrition Examination surveys (NHANES 2009-2012), we explore the effects of smoking and other factors, in the aspects of physical traits, health and lifestyle, on hypertension (defined as the systolic blood pressure that is higher than 130 mmHg). The propensity score matching is used for the smoking propensity, to  
+eliminate the bias of the estimates of the effects of smoking on hypertension. The logistic regressions are fitted with the factors that are correlated with high blood pressure as the predictors and whether the participants have hypertension as the outcome variable. The estimated coefficients of the model shows that the individuals with the gender of male, a higher age, a larger weight, a higher frequency of depression, having more number of alcoholic drinks in the past year, having a habit of cigarette smoking are more likely to have hypertension.
